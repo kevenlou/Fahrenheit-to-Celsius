@@ -1,0 +1,41 @@
+html{
+    background-color: mediumpurple;
+    
+}
+
+body{
+    text-align: left;
+    width: 600px;
+    margin: 60px auto;
+    background-color: white;
+    padding: 75px;
+    border: 5px solid teal;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    font-size: 25px;
+    padding: 5px 20px;
+    color: orange;
+    background-color: lightgoldenrodyellow;
+}
+
+button:hover{
+    border: 2px solid black;
+}
+
+input{
+    font-size: 20px;
+}
